@@ -1,0 +1,1 @@
+web: babajka-stub
